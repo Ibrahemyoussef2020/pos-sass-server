@@ -1,20 +1,20 @@
 {
    "en-home":{
     "intro": {
-      "title": "A Comprehensive ERP Platform Designed to Address All Your Business Demands",
-      "description": "Manage your business, from sales and invoicing, your books, your clientele and workforce to your inventory and operations. With powerful, fully integrated business. 111",
+      "title": "منصة ERP شاملة مصممة لتلبية جميع متطلبات عملك",
+      "description": "إدارة عملك، من المبيعات والفوترة، إلى الحسابات والعملاء والقوى العاملة والمخزون والعمليات. باستخدام أدوات قوية ومتكاملة بالكامل.",
       "features": [
         {
           "id": 2,
-          "feature": "Free 14-day trial 111"
+          "feature": "تجربة مجانية لمدة 14 يومًا"
         },
         {
           "id": 3,
-          "feature": "No credit card needed 111"
+          "feature": "لا حاجة إلى بطاقة ائتمان"
         },
         {
           "id": 4,
-          "feature": "No credit card needed 111"
+          "feature": "لا حاجة إلى بطاقة ائتمان"
         }
       ],
       "image": "blob:http://localhost:8080/6acfc1ae-1532-4dc3-a8b1-d9fc1285f3dd"
@@ -22,94 +22,94 @@
     "intro-features": [
       {
         "id": "5",
-        "title": "experienced team",
-        "desc": "Cursus ultrices diam"
+        "title": "فريق ذو خبرة",
+        "desc": "دورات تدريبية مكثفة"
       },
       {
         "id": "6",
-        "title": "digital solutions",
-        "desc": "Magna augue temp"
+        "title": "حلول رقمية",
+        "desc": "مبتكرة ومتكاملة"
       },
       {
         "id": "7",
-        "title": "24/7 support",
-        "desc": "Nunc quisa volutpat"
+        "title": "دعم على مدار الساعة",
+        "desc": "خدمة عملاء فعالة"
       },
       {
         "id": "8",
-        "title": "applicable ideas",
-        "desc": "Cursus ultrices diam"
+        "title": "أفكار قابلة للتطبيق",
+        "desc": "تصميم إستراتيجيات عملية"
       }
     ],
     "business-manage-software": {
       "id": 9,
-      "title": "An Easy-to-use Business Management Software",
-      "desc": "Daftra Accounting software is built for both accountants and business owners with no accounting knowledge."
+      "title": "برنامج إدارة أعمال سهل الاستخدام",
+      "desc": "برنامج دفترة المحاسبي مصمم لكل من المحاسبين وأصحاب الأعمال الذين ليس لديهم خبرة في المحاسبة."
     },
     "services": [
       {
         "id": "10",
-        "title": "Sales",
-        "desc": "Invoicing, POS, Sales Commission, Insurance Management, Offers,",
-        "footer-desc": "Unleash the Power of Business",
+        "title": "المبيعات",
+        "desc": "الفوترة، نقاط البيع، العمولات، إدارة التأمين، العروض.",
+        "footer-desc": "أطلق العنان لقوة عملك",
         "img": "ser"
       },
       {
         "id": "11",
-        "title": "Accounting",
-        "desc": "Expenses, Tax, Treasuries, Cheque Cycle, Chart of Accounts, Auto-Journals,",
-        "footer-desc": "Best Enterprise Methodologies",
+        "title": "المحاسبة",
+        "desc": "النفقات، الضرائب، الخزائن، دورة الشيكات، مخطط الحسابات، الإدخالات التلقائية.",
+        "footer-desc": "أفضل منهجيات الشركات",
         "img": "ser"
       },
       {
         "id": "12",
-        "title": "Inventory",
-        "desc": "Stock Tracking, Barcode, Purchases, Suppliers, Warehouses, Stocktaking,",
-        "footer-desc": "Smarter Business Experience",
+        "title": "المخزون",
+        "desc": "تتبع المخزون، الباركود، المشتريات، الموردين، المستودعات، الجرد.",
+        "footer-desc": "تجربة أعمال أذكى",
         "img": ""
       },
       {
         "id": "13",
-        "title": "Human Resource",
-        "desc": "Employee Database, Payroll, Contracts, Attendance & Leave Management, Multi-",
-        "footer-desc": "Next Generation Business Ideas",
+        "title": "الموارد البشرية",
+        "desc": "قاعدة بيانات الموظفين، الرواتب، العقود، إدارة الحضور والإجازات.",
+        "footer-desc": "أفكار عمل من الجيل الجديد",
         "img": ""
       },
       {
         "id": "14",
-        "title": "Operations",
-        "desc": "Work Orders, Project Management, Online Booking Management, Time Tracking",
-        "footer-desc": "Transforming Endless Possibilities",
+        "title": "العمليات",
+        "desc": "أوامر العمل، إدارة المشاريع، إدارة الحجوزات عبر الإنترنت، تتبع الوقت.",
+        "footer-desc": "تحويل الإمكانيات اللامحدودة",
         "img": ""
       },
       {
         "id": "15",
-        "title": "CRM",
-        "desc": "Contact Management, Appointment Assignment, Memberships, Points &",
-        "footer-desc": "Transforming Endless Possibilities",
+        "title": "إدارة علاقات العملاء (CRM)",
+        "desc": "إدارة جهات الاتصال، تعيين المواعيد، العضويات، النقاط.",
+        "footer-desc": "تحويل الإمكانيات اللامحدودة",
         "img": ""
       }
     ],
     "operations-system": {
       "id": 16,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "Convenient Operations, beyond ERP system",
-      "desc": "Manage efficient project management operations. Create work orders and set up projects. Track project expenses, assign designated employees, manage online bookings and schedule appointments, according to employees’ shifts. Log your hours with Time Tracking.",
+      "title": "شغف – التزام – احترافية",
+      "sub-title": "عمليات مريحة، تتجاوز نظام ERP",
+      "desc": "إدارة عمليات المشاريع بكفاءة. إنشاء أوامر العمل وإعداد المشاريع. تتبع نفقات المشاريع، تعيين الموظفين، إدارة الحجوزات عبر الإنترنت وجدولة المواعيد وفقًا لتوقيت الموظفين. سجل ساعاتك باستخدام خاصية تتبع الوقت.",
       "number": "+1 (800) 555 555",
       "features": [
         {
           "id": 17,
-          "title": "Work Orders",
+          "title": "أوامر العمل",
           "img": "fa-regular fa-clipboard"
         },
         {
           "id": 18,
-          "title": "Work Orders",
+          "title": "أوامر العمل",
           "img": "fa-solid fa-list-check"
         },
         {
           "id": 19,
-          "title": "Work Orders",
+          "title": "أوامر العمل",
           "img": "fa-solid fa-timeline"
         }
       ]
@@ -138,32 +138,32 @@
     ],
     "goals": {
       "id": 25,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "achieve your goals with purpose & strategy",
-      "desc": "Auisque cursus sed magnads vitae conubia pharetra auctor interdum dui metus augue.",
+      "title": "شغف – التزام – احترافية",
+      "sub-title": "حقق أهدافك بالغرض والإستراتيجية",
+      "desc": "دورات تدريبية مكثفة وحلول استراتيجية مبتكرة.",
       "goals": [
         {
           "id": 26,
-          "title": "Consulting",
+          "title": "استشارات",
           "number": "85"
         },
         {
           "id": 27,
-          "title": "Management",
+          "title": "إدارة",
           "number": "76"
         },
         {
           "id": 28,
-          "title": "Consulting",
+          "title": "استشارات",
           "number": "92"
         }
       ]
     },
     "sales-sotware": {
       "id": 29,
-      "title": "why choose AItech business",
-      "sub-title": "Robust Online Sales Management Software",
-      "desc": "Cover sales from professional invoicing to estimates and quotations. Track client payments, installments, and set up insurance coverage. Ease client payments by offering multiple payment gateways including online payment. Sell in-person and on-the-go, with cloud POS. Set commission-based sales targets and track your teams’ performance.",
+      "title": "لماذا تختار أعمال AItech؟",
+      "sub-title": "برنامج إدارة المبيعات عبر الإنترنت المتقدم",
+      "desc": "إدارة المبيعات بدءًا من الفواتير الاحترافية إلى التقديرات والعروض. تتبع مدفوعات العملاء والأقساط، وتوفير خيارات تغطية التأمين. تسهيل المدفوعات للعملاء من خلال بوابات دفع متعددة بما في ذلك الدفع عبر الإنترنت. قم بالبيع شخصيًا أو أثناء التنقل، باستخدام نقاط البيع السحابية. حدد أهداف مبيعات مستندة إلى العمولات وتتبع أداء فرقك.",
       "images": [
         {
           "id": 30,
@@ -181,23 +181,23 @@
       "features": [
         {
           "id": 33,
-          "feature": "Invoicing & Quotations"
+          "feature": "الفوترة والعروض"
         },
         {
           "id": 34,
-          "feature": "Point of Sale"
+          "feature": "نقاط البيع"
         },
         {
           "id": 35,
-          "feature": "Installments Management"
+          "feature": "إدارة الأقساط"
         },
         {
           "id": 36,
-          "feature": "Sales Targets & Commissions"
+          "feature": "أهداف المبيعات والعمولات"
         },
         {
           "id": 37,
-          "feature": "Insurance Management"
+          "feature": "إدارة التأمين"
         }
       ]
     },
@@ -205,43 +205,43 @@
       {
         "id": "38",
         "number": "15k+",
-        "title": "Supported Businesses"
+        "title": "شركات مدعومة"
       },
       {
         "id": "39",
         "number": "3.5M",
-        "title": "Funds Granted Through Govt. Aid"
+        "title": "تمويل مقدم عبر دعم حكومي"
       },
       {
         "id": "40",
         "number": "600",
-        "title": "Turnkey Projects"
+        "title": "مشاريع تسليم مفتاح"
       }
     ],
     "newes": {
       "id": 41,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "latest news & insights",
-      "desc": "Euisque cursus metus vitae sedpharetra auctor semy mas interdum magla fusce nec litora diam vestibulum andyus eget ipsum faucibus",
+      "title": "شغف – التزام – احترافية",
+      "sub-title": "آخر الأخبار والرؤى",
+      "desc": "تحديثات مبتكرة وأخبار مفيدة للمهتمين بالأعمال والتكنولوجيا.",
       "news": [
         {
           "id": 42,
-          "title": "How to have a fantastic career opportunity with minimal spending",
-          "category": "Audit & Taxation",
+          "title": "كيف تحصل على فرصة عمل رائعة بأقل تكلفة",
+          "category": "التدقيق والضرائب",
           "link": "/",
           "image": "/images/home/news-1.jpg"
         },
         {
           "id": 43,
-          "title": "Understanding the value & background of all public relation trends",
-          "category": "Audit & Taxation",
+          "title": "فهم قيمة واتجاهات العلاقات العامة",
+          "category": "التدقيق والضرائب",
           "link": "/",
           "image": "/images/home/news-2.jpg"
         },
         {
           "id": 44,
-          "title": "Things you should know before getting into the business industry",
-          "category": "Audit & Taxation",
+          "title": "أشياء يجب معرفتها قبل دخول مجال الأعمال",
+          "category": "التدقيق والضرائب",
           "link": "/",
           "image": "/images/home/news-3.jpg"
         }
@@ -249,39 +249,37 @@
     },
     "global": {
       "id": 45,
-      "title": "Whatever your business is, Aitech will fit it! Aitech is designed to fit a wide range of industries with countless customized apps",
-      "desc-before": "Experience the power of Aitech's intuitive web application, tailored to elevate your business operations. With its user-friendly interface and fully customizable features, Aitech adapts seamlessly to the unique needs of your industry. Whether you're managing",
-      "desc-after": " centralizes your workflow, giving you real-time insights and full control over your business processes. Accessible anytime, anywhere, Aitech ensures your business is always connected, efficient, and ready to grow. Start transforming your operations with a platform designed to work the way you do!",
+      "title": "مهما كان نوع عملك، AItech ستناسبه! صُممت AItech لتناسب مجموعة واسعة من الصناعات بتطبيقات مخصصة لا حصر لها.",
+      "desc-before": "جرّب قوة تطبيق الويب AItech البديهي، المصمم لتعزيز عمليات عملك. مع واجهته سهلة الاستخدام وميزاته القابلة للتخصيص بالكامل، يتكيف AItech بسلاسة مع احتياجات صناعتك.",
+      "desc-after": "يعمل على مركزية سير عملك، مما يمنحك رؤى فورية وتحكمًا كاملاً في عمليات عملك. متاح في أي وقت ومن أي مكان، يضمن AItech اتصال عملك دائمًا، وكفاءته، واستعداده للنمو. ابدأ في تحويل عملياتك باستخدام منصة مصممة لتعمل بالطريقة التي تناسبك!",
       "features": [
         {
           "id": 46,
-          "feature": "finances"
+          "feature": "التمويل"
         },
         {
           "id": 47,
-          "feature": "inventory"
+          "feature": "المخزون"
         },
         {
           "id": 48,
-          "feature": "sales"
+          "feature": "المبيعات"
         },
         {
           "id": 49,
-          "feature": "Medical specialties"
+          "feature": "التخصصات الطبية"
         },
         {
           "id": 50,
-          "feature": "customer relationships"
+          "feature": "علاقات العملاء"
         },
         {
           "id": 51,
-          "feature": "web application"
+          "feature": "تطبيق ويب"
         }
       ]
     }
   },
-
-  
   "ar-home":{
     "intro": {
       "title": "An ERP System to Run Your Entire Business 111",
