@@ -1,6 +1,287 @@
 {
    "en-home":{
     "intro": {
+      "title": "A Comprehensive ERP Platform Designed to Address All Your Business Demands",
+      "description": "Manage your business, from sales and invoicing, your books, your clientele and workforce to your inventory and operations. With powerful, fully integrated business. 111",
+      "features": [
+        {
+          "id": 2,
+          "feature": "Free 14-day trial 111"
+        },
+        {
+          "id": 3,
+          "feature": "No credit card needed 111"
+        },
+        {
+          "id": 4,
+          "feature": "No credit card needed 111"
+        }
+      ],
+      "image": "blob:http://localhost:8080/6acfc1ae-1532-4dc3-a8b1-d9fc1285f3dd"
+    },
+    "intro-features": [
+      {
+        "id": "5",
+        "title": "experienced team",
+        "desc": "Cursus ultrices diam"
+      },
+      {
+        "id": "6",
+        "title": "digital solutions",
+        "desc": "Magna augue temp"
+      },
+      {
+        "id": "7",
+        "title": "24/7 support",
+        "desc": "Nunc quisa volutpat"
+      },
+      {
+        "id": "8",
+        "title": "applicable ideas",
+        "desc": "Cursus ultrices diam"
+      }
+    ],
+    "business-manage-software": {
+      "id": 9,
+      "title": "An Easy-to-use Business Management Software",
+      "desc": "Daftra Accounting software is built for both accountants and business owners with no accounting knowledge."
+    },
+    "services": [
+      {
+        "id": "10",
+        "title": "Sales",
+        "desc": "Invoicing, POS, Sales Commission, Insurance Management, Offers,",
+        "footer-desc": "Unleash the Power of Business",
+        "img": "ser"
+      },
+      {
+        "id": "11",
+        "title": "Accounting",
+        "desc": "Expenses, Tax, Treasuries, Cheque Cycle, Chart of Accounts, Auto-Journals,",
+        "footer-desc": "Best Enterprise Methodologies",
+        "img": "ser"
+      },
+      {
+        "id": "12",
+        "title": "Inventory",
+        "desc": "Stock Tracking, Barcode, Purchases, Suppliers, Warehouses, Stocktaking,",
+        "footer-desc": "Smarter Business Experience",
+        "img": ""
+      },
+      {
+        "id": "13",
+        "title": "Human Resource",
+        "desc": "Employee Database, Payroll, Contracts, Attendance & Leave Management, Multi-",
+        "footer-desc": "Next Generation Business Ideas",
+        "img": ""
+      },
+      {
+        "id": "14",
+        "title": "Operations",
+        "desc": "Work Orders, Project Management, Online Booking Management, Time Tracking",
+        "footer-desc": "Transforming Endless Possibilities",
+        "img": ""
+      },
+      {
+        "id": "15",
+        "title": "CRM",
+        "desc": "Contact Management, Appointment Assignment, Memberships, Points &",
+        "footer-desc": "Transforming Endless Possibilities",
+        "img": ""
+      }
+    ],
+    "operations-system": {
+      "id": 16,
+      "title": "Passionate – Dedicated – Professional",
+      "sub-title": "Convenient Operations, beyond ERP system",
+      "desc": "Manage efficient project management operations. Create work orders and set up projects. Track project expenses, assign designated employees, manage online bookings and schedule appointments, according to employees’ shifts. Log your hours with Time Tracking.",
+      "number": "+1 (800) 555 555",
+      "features": [
+        {
+          "id": 17,
+          "title": "Work Orders",
+          "img": "fa-regular fa-clipboard"
+        },
+        {
+          "id": 18,
+          "title": "Work Orders",
+          "img": "fa-solid fa-list-check"
+        },
+        {
+          "id": 19,
+          "title": "Work Orders",
+          "img": "fa-solid fa-timeline"
+        }
+      ]
+    },
+    "decoration": [
+      {
+        "id": "20",
+        "value": ""
+      },
+      {
+        "id": "21",
+        "value": ""
+      },
+      {
+        "id": "22",
+        "value": ""
+      },
+      {
+        "id": "23",
+        "value": ""
+      },
+      {
+        "id": "24",
+        "value": ""
+      }
+    ],
+    "goals": {
+      "id": 25,
+      "title": "Passionate – Dedicated – Professional",
+      "sub-title": "achieve your goals with purpose & strategy",
+      "desc": "Auisque cursus sed magnads vitae conubia pharetra auctor interdum dui metus augue.",
+      "goals": [
+        {
+          "id": 26,
+          "title": "Consulting",
+          "number": "85"
+        },
+        {
+          "id": 27,
+          "title": "Management",
+          "number": "76"
+        },
+        {
+          "id": 28,
+          "title": "Consulting",
+          "number": "92"
+        }
+      ]
+    },
+    "sales-sotware": {
+      "id": 29,
+      "title": "why choose AItech business",
+      "sub-title": "Robust Online Sales Management Software",
+      "desc": "Cover sales from professional invoicing to estimates and quotations. Track client payments, installments, and set up insurance coverage. Ease client payments by offering multiple payment gateways including online payment. Sell in-person and on-the-go, with cloud POS. Set commission-based sales targets and track your teams’ performance.",
+      "images": [
+        {
+          "id": 30,
+          "image": "sales"
+        },
+        {
+          "id": 31,
+          "image": "sales"
+        },
+        {
+          "id": 32,
+          "image": "sales"
+        }
+      ],
+      "features": [
+        {
+          "id": 33,
+          "feature": "Invoicing & Quotations"
+        },
+        {
+          "id": 34,
+          "feature": "Point of Sale"
+        },
+        {
+          "id": 35,
+          "feature": "Installments Management"
+        },
+        {
+          "id": 36,
+          "feature": "Sales Targets & Commissions"
+        },
+        {
+          "id": 37,
+          "feature": "Insurance Management"
+        }
+      ]
+    },
+    "numbers": [
+      {
+        "id": "38",
+        "number": "15k+",
+        "title": "Supported Businesses"
+      },
+      {
+        "id": "39",
+        "number": "3.5M",
+        "title": "Funds Granted Through Govt. Aid"
+      },
+      {
+        "id": "40",
+        "number": "600",
+        "title": "Turnkey Projects"
+      }
+    ],
+    "newes": {
+      "id": 41,
+      "title": "Passionate – Dedicated – Professional",
+      "sub-title": "latest news & insights",
+      "desc": "Euisque cursus metus vitae sedpharetra auctor semy mas interdum magla fusce nec litora diam vestibulum andyus eget ipsum faucibus",
+      "news": [
+        {
+          "id": 42,
+          "title": "How to have a fantastic career opportunity with minimal spending",
+          "category": "Audit & Taxation",
+          "link": "/",
+          "image": "/images/home/news-1.jpg"
+        },
+        {
+          "id": 43,
+          "title": "Understanding the value & background of all public relation trends",
+          "category": "Audit & Taxation",
+          "link": "/",
+          "image": "/images/home/news-2.jpg"
+        },
+        {
+          "id": 44,
+          "title": "Things you should know before getting into the business industry",
+          "category": "Audit & Taxation",
+          "link": "/",
+          "image": "/images/home/news-3.jpg"
+        }
+      ]
+    },
+    "global": {
+      "id": 45,
+      "title": "Whatever your business is, Aitech will fit it! Aitech is designed to fit a wide range of industries with countless customized apps",
+      "desc-before": "Experience the power of Aitech's intuitive web application, tailored to elevate your business operations. With its user-friendly interface and fully customizable features, Aitech adapts seamlessly to the unique needs of your industry. Whether you're managing",
+      "desc-after": " centralizes your workflow, giving you real-time insights and full control over your business processes. Accessible anytime, anywhere, Aitech ensures your business is always connected, efficient, and ready to grow. Start transforming your operations with a platform designed to work the way you do!",
+      "features": [
+        {
+          "id": 46,
+          "feature": "finances"
+        },
+        {
+          "id": 47,
+          "feature": "inventory"
+        },
+        {
+          "id": 48,
+          "feature": "sales"
+        },
+        {
+          "id": 49,
+          "feature": "Medical specialties"
+        },
+        {
+          "id": 50,
+          "feature": "customer relationships"
+        },
+        {
+          "id": 51,
+          "feature": "web application"
+        }
+      ]
+    }
+  },
+  "ar-home":{
+    "intro": {
       "title": "منصة ERP شاملة مصممة لتلبية جميع متطلبات عملك",
       "description": "إدارة عملك، من المبيعات والفوترة، إلى الحسابات والعملاء والقوى العاملة والمخزون والعمليات. باستخدام أدوات قوية ومتكاملة بالكامل.",
       "features": [
@@ -279,286 +560,5 @@
         }
       ]
     }
-  },
-  "ar-home":{
-    "intro": {
-      "title": "An ERP System to Run Your Entire Business 111",
-      "description": "Manage your business, from sales and invoicing, your books, your clientele and workforce to your inventory and operations. With powerful, fully integrated business. 111",
-      "features": [
-        {
-          "id": 2,
-          "feature": "Free 14-day trial 111"
-        },
-        {
-          "id": 3,
-          "feature": "No credit card needed 111"
-        },
-        {
-          "id": 4,
-          "feature": "No credit card needed 111"
-        }
-      ],
-      "image": "blob:http://localhost:8080/6acfc1ae-1532-4dc3-a8b1-d9fc1285f3dd"
-    },
-    "intro-features": [
-      {
-        "id": "5",
-        "title": "experienced team",
-        "desc": "Cursus ultrices diam"
-      },
-      {
-        "id": "6",
-        "title": "digital solutions",
-        "desc": "Magna augue temp"
-      },
-      {
-        "id": "7",
-        "title": "24/7 support",
-        "desc": "Nunc quisa volutpat"
-      },
-      {
-        "id": "8",
-        "title": "applicable ideas",
-        "desc": "Cursus ultrices diam"
-      }
-    ],
-    "business-manage-software": {
-      "id": 9,
-      "title": "An Easy-to-use Business Management Software",
-      "desc": "Daftra Accounting software is built for both accountants and business owners with no accounting knowledge."
-    },
-    "services": [
-      {
-        "id": "10",
-        "title": "Sales",
-        "desc": "Invoicing, POS, Sales Commission, Insurance Management, Offers,",
-        "footer-desc": "Unleash the Power of Business",
-        "img": "ser"
-      },
-      {
-        "id": "11",
-        "title": "Accounting",
-        "desc": "Expenses, Tax, Treasuries, Cheque Cycle, Chart of Accounts, Auto-Journals,",
-        "footer-desc": "Best Enterprise Methodologies",
-        "img": "ser"
-      },
-      {
-        "id": "12",
-        "title": "Inventory",
-        "desc": "Stock Tracking, Barcode, Purchases, Suppliers, Warehouses, Stocktaking,",
-        "footer-desc": "Smarter Business Experience",
-        "img": ""
-      },
-      {
-        "id": "13",
-        "title": "Human Resource",
-        "desc": "Employee Database, Payroll, Contracts, Attendance & Leave Management, Multi-",
-        "footer-desc": "Next Generation Business Ideas",
-        "img": ""
-      },
-      {
-        "id": "14",
-        "title": "Operations",
-        "desc": "Work Orders, Project Management, Online Booking Management, Time Tracking",
-        "footer-desc": "Transforming Endless Possibilities",
-        "img": ""
-      },
-      {
-        "id": "15",
-        "title": "CRM",
-        "desc": "Contact Management, Appointment Assignment, Memberships, Points &",
-        "footer-desc": "Transforming Endless Possibilities",
-        "img": ""
-      }
-    ],
-    "operations-system": {
-      "id": 16,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "Convenient Operations, beyond ERP system",
-      "desc": "Manage efficient project management operations. Create work orders and set up projects. Track project expenses, assign designated employees, manage online bookings and schedule appointments, according to employees’ shifts. Log your hours with Time Tracking.",
-      "number": "+1 (800) 555 555",
-      "features": [
-        {
-          "id": 17,
-          "title": "Work Orders",
-          "img": "fa-regular fa-clipboard"
-        },
-        {
-          "id": 18,
-          "title": "Work Orders",
-          "img": "fa-solid fa-list-check"
-        },
-        {
-          "id": 19,
-          "title": "Work Orders",
-          "img": "fa-solid fa-timeline"
-        }
-      ]
-    },
-    "decoration": [
-      {
-        "id": "20",
-        "value": ""
-      },
-      {
-        "id": "21",
-        "value": ""
-      },
-      {
-        "id": "22",
-        "value": ""
-      },
-      {
-        "id": "23",
-        "value": ""
-      },
-      {
-        "id": "24",
-        "value": ""
-      }
-    ],
-    "goals": {
-      "id": 25,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "achieve your goals with purpose & strategy",
-      "desc": "Auisque cursus sed magnads vitae conubia pharetra auctor interdum dui metus augue.",
-      "goals": [
-        {
-          "id": 26,
-          "title": "Consulting",
-          "number": "85"
-        },
-        {
-          "id": 27,
-          "title": "Management",
-          "number": "76"
-        },
-        {
-          "id": 28,
-          "title": "Consulting",
-          "number": "92"
-        }
-      ]
-    },
-    "sales-sotware": {
-      "id": 29,
-      "title": "why choose AItech business",
-      "sub-title": "Robust Online Sales Management Software",
-      "desc": "Cover sales from professional invoicing to estimates and quotations. Track client payments, installments, and set up insurance coverage. Ease client payments by offering multiple payment gateways including online payment. Sell in-person and on-the-go, with cloud POS. Set commission-based sales targets and track your teams’ performance.",
-      "images": [
-        {
-          "id": 30,
-          "image": "sales"
-        },
-        {
-          "id": 31,
-          "image": "sales"
-        },
-        {
-          "id": 32,
-          "image": "sales"
-        }
-      ],
-      "features": [
-        {
-          "id": 33,
-          "feature": "Invoicing & Quotations"
-        },
-        {
-          "id": 34,
-          "feature": "Point of Sale"
-        },
-        {
-          "id": 35,
-          "feature": "Installments Management"
-        },
-        {
-          "id": 36,
-          "feature": "Sales Targets & Commissions"
-        },
-        {
-          "id": 37,
-          "feature": "Insurance Management"
-        }
-      ]
-    },
-    "numbers": [
-      {
-        "id": "38",
-        "number": "15k+",
-        "title": "Supported Businesses"
-      },
-      {
-        "id": "39",
-        "number": "3.5M",
-        "title": "Funds Granted Through Govt. Aid"
-      },
-      {
-        "id": "40",
-        "number": "600",
-        "title": "Turnkey Projects"
-      }
-    ],
-    "newes": {
-      "id": 41,
-      "title": "Passionate – Dedicated – Professional",
-      "sub-title": "latest news & insights",
-      "desc": "Euisque cursus metus vitae sedpharetra auctor semy mas interdum magla fusce nec litora diam vestibulum andyus eget ipsum faucibus",
-      "news": [
-        {
-          "id": 42,
-          "title": "How to have a fantastic career opportunity with minimal spending",
-          "category": "Audit & Taxation",
-          "link": "/",
-          "image": "/images/home/news-1.jpg"
-        },
-        {
-          "id": 43,
-          "title": "Understanding the value & background of all public relation trends",
-          "category": "Audit & Taxation",
-          "link": "/",
-          "image": "/images/home/news-2.jpg"
-        },
-        {
-          "id": 44,
-          "title": "Things you should know before getting into the business industry",
-          "category": "Audit & Taxation",
-          "link": "/",
-          "image": "/images/home/news-3.jpg"
-        }
-      ]
-    },
-    "global": {
-      "id": 45,
-      "title": "Whatever your business is, Aitech will fit it! Aitech is designed to fit a wide range of industries with countless customized apps",
-      "desc-before": "Experience the power of Aitech's intuitive web application, tailored to elevate your business operations. With its user-friendly interface and fully customizable features, Aitech adapts seamlessly to the unique needs of your industry. Whether you're managing",
-      "desc-after": " centralizes your workflow, giving you real-time insights and full control over your business processes. Accessible anytime, anywhere, Aitech ensures your business is always connected, efficient, and ready to grow. Start transforming your operations with a platform designed to work the way you do!",
-      "features": [
-        {
-          "id": 46,
-          "feature": "finances"
-        },
-        {
-          "id": 47,
-          "feature": "inventory"
-        },
-        {
-          "id": 48,
-          "feature": "sales"
-        },
-        {
-          "id": 49,
-          "feature": "Medical specialties"
-        },
-        {
-          "id": 50,
-          "feature": "customer relationships"
-        },
-        {
-          "id": 51,
-          "feature": "web application"
-        }
-      ]
-    }
-  }
+  }  
 }
